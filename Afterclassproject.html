@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <header>
+
+<h1>Webpage Article</h1>
+
+<nav>
+
+<ul>
+
+<li><a href="#Home">Home</a></li>
+
+<li><a href="#posts">Posts</a></li>
+
+<li><a href="#contact">Contact</a></li>
+
+</ul>
+
+</nav>
+
+</header>
+    <body>
+
+<section>
+
+<article>
+
+<h2>Facts About the Earth</h2>
+
+<p>
+
+Earth is the third planet from the Sun and the only known place in the universe that supports life. It has a unique balance of land, water, and atmosphere, with about 71% of its surface covered by oceans. The atmosphere, made mostly of nitrogen and oxygen, protects life by blocking harmful solar radiation and regulating temperature. Earth’s magnetic field shields it from charged particles from the Sun, while its rotation and tilt create day, night, and seasons. Home to millions of species, Earth’s biodiversity thrives due to its ideal distance from the Sun, presence of liquid water, and rich natural resources.
+
+</p>
+
+</article>
+
+</section>
+
+</body>
+<foot>
+
+<p>EMAIL at support@codingal.com</p>
+
+</foot>
+</html>
