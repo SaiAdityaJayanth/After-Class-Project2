@@ -1,46 +1,38 @@
 <!DOCTYPE html>
+
 <html>
-    <header>
 
-<h1>Webpage Article</h1>
+<title>Typography</title>
 
-<nav>
+<style>
 
-<ul>
+.text1 {
 
-<li><a href="#Home">Home</a></li>
+color: red;
 
-<li><a href="#posts">Posts</a></li>
+font-size: 30px;
 
-<li><a href="#contact">Contact</a></li>
+}
 
-</ul>
+.p1 {
 
-</nav>
+color: blueviolet;
 
-</header>
-    <body>
+font-family: 'Courier New', Courier, monospace;
 
-<section>
+}
 
-<article>
+</style>
 
-<h2>Facts About the Earth</h2>
+<body>
+  <link rel="stylesheet" href="style.css">    
 
-<p>
+<h1>Typography</h1>
 
-Earth is the third planet from the Sun and the only known place in the universe that supports life. It has a unique balance of land, water, and atmosphere, with about 71% of its surface covered by oceans. The atmosphere, made mostly of nitrogen and oxygen, protects life by blocking harmful solar radiation and regulating temperature. Earth’s magnetic field shields it from charged particles from the Sun, while its rotation and tilt create day, night, and seasons. Home to millions of species, Earth’s biodiversity thrives due to its ideal distance from the Sun, presence of liquid water, and rich natural resources.
+<p class="text1">Welcome to codingal</p>
 
-</p>
-
-</article>
-
-</section>
+<p class="p1">Welcome to codingal</p>
 
 </body>
-<foot>
 
-<p>EMAIL at support@codingal.com</p>
-
-</foot>
 </html>
