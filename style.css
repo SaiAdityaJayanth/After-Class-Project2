@@ -1,0 +1,16 @@
+body{
+
+background-image: url("Picture.jpg");
+}
+h1{
+    color: blue;
+}
+h1{
+    background-color: beige;
+}
+h1{
+    border: 200px;
+}
+body{
+    border: rgb(0, 255, 255);
+}
